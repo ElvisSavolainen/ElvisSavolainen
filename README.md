@@ -8,7 +8,7 @@
   ---
 ### 🦸‍♂️: About Me :
 
-- 🔭 Big dreams many projects to do to achieve them.
+- 🔭 Big dreams many projects to do to achieve them and a lot of studying.
 - ⚔️ Studying Fullstack
 - 🎨 Passion for designing 
 - 🐈 CEO of Neondra Oy trying to build a catgirl universe.
