@@ -18,7 +18,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="[https://assets.stickpng.com/images/62c6bc3deee9410fe137d920.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Ffigma-app-logo&psig=AOvVaw1riWNjqtYHDf3hfIfyTup9&ust=1705943125346000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjg7cL77oMDFQAAAAAdAAAAABAD)" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="[[https://assets.stickpng.com/images/62c6bc3deee9410fe137d920.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Ffigma-app-logo&psig=AOvVaw1riWNjqtYHDf3hfIfyTup9&ust=1705943125346000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjg7cL77oMDFQAAAAAdAAAAABAD)](https://assets.stickpng.com/images/62c6bc3deee9410fe137d920.png)" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   </div>
     
 <!--
