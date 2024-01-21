@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/US7TjmTbrnRZtEMYiQ/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/US7TjmTbrnRZtEMYiQ/giphy.gif" width="250"/>
 </div>
 
 ### Hi there 👋 
@@ -20,7 +20,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   </div>
     
 <!--
